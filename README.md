@@ -12,9 +12,9 @@
 | ISP            |  2 (ГЦ)   |        4 (ГБ)      |   8 (ГБ)    |            Eltex           |
 | HQ-RTR         |  2 (ГЦ)   |        4 (ГБ)      |   6 (ГБ)    |          EcoRouter         |
 | BR-RTR         |  2 (ГЦ)   |        4 (ГБ)      |   8 (ГБ)    |            Eltex           |
-| HQ-SRV         |  2 (ГЦ)   |        4 (ГБ)      |  35 (ГБ)    |      ALT Linux Server      |
-| BR-SRV         |  2 (ГЦ)   |        4 (ГБ)      |  35 (ГБ)    |      ALT Linux Server      |
-| HQ-CLI         |  2 (ГЦ)   |        4 (ГБ)      |  35 (ГБ)    |    ALT Linux WorkStation   |
+| HQ-SRV         |  2 (ГЦ)   |        4 (ГБ)      |  30 (ГБ)    |      ALT Linux Server      |
+| BR-SRV         |  2 (ГЦ)   |        4 (ГБ)      |  30 (ГБ)    |      ALT Linux Server      |
+| HQ-CLI         |  2 (ГЦ)   |        4 (ГБ)      |  30 (ГБ)    |    ALT Linux WorkStation   |
 
 
 ### Таблица №2 (разбита на подсети).
